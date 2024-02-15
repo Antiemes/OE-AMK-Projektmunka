@@ -130,7 +130,7 @@ kövekből áll a magyar "Ezt rakd ki".
 
 Az "Ezt rakj ki" néhány feladványa:
 
-![Ezt rakd ki példák](images/eztrakdki1.jpg)
+![Ezt rakd ki példák](images/eztrakdki2.jpg)
 
 A cél akár a kínai, akár a magyar verzió megvalósítása
 számítógépes program formájában.
