@@ -1,12 +1,80 @@
 # Általanos információk
 
-## Csapatok összeállítása
+## Időbeosztás, mérföldkövek
 
-A félév elején a kurzus hallgatóiból 2-3 fős csapatokat állítunk össze. Ennek megszervezése alapvetően a hallgatók feladata. Ezt
-[Ennek a táblázatnak](https://docs.google.com/spreadsheets/d/1BPvd-QJT9Fd2HLqn0v-txxHA3oMNaa7M44eLx-d2CMs/edit#gid=0)
+A félév során **csapatban** **KELL** dolgozni. Egy csapat 2-3 főből állhat, amitől indokolt esetben felfelé igen, lefelé
+semmilyen esetben sem tudunk eltérni. Egy fős csapat nem megengedett. A csapatok összeállítását az első héten lezárjuk.
+
+A csapatok összeállításával párhuzamosan folyik a téma kiválasztása (lásd lentebb).
+
+A csapatoknak minimálisan 4 konzultáción kell részt venniük a félév során (szintén lásd lejjebb).
+
+A félév során **dokumentáció** készítése szükséges (hasonló módon lásd lejjebb).
+
+A féléves munkát egy közös, **személyes beszámoló zárja** (úgyszintén lásd lejjebb).
+
+### Csapatok összeállítása
+
+A csapatok összeállítása alapvetően a hallgatók feladata. Ezt
+[Ennek a táblázatnak](https://docs.google.com/spreadsheets/d/1wrBPsofgKiulAlaIY-kBxCaxafpvoQe2gkBipEEUu74/edit#gid=0)
 a segítségével lehet megtenni. Értelemszerűen a "csapat sorszáma" oszlopba kell beírni
 a csapat sorszámát. A táblázatot később letisztázom és a kimaradó emberekből (ha
 lesznek) véletlenszerűen állítok össze csapatokat.
+
+A csapatok összeállítását a **második hét végéig** le fogjuk zárni. **A táblázatban módosítani az második hét csütörtök 18:00-ig lehet**.
+Ezt követően a kimaradó embereket önkényesen fogom csapatokba rendezni.
+
+### GitHub regisztráció és meghívó
+
+A féléves munkához szükség van a GitHub-ra történő regisztrációra is. Az ottani **felhasználónevet** úgyszintén be kell
+írni ebbe a táblázatba. A csapatok véglegesítése után mindenkit meghívok az előre elkészített GitHub repositoryba (ehhez
+kell tudnom a felhasználónevet). A meghívás után az illető nevét sárgára állítom. A meghívó elfogadását rendszeresen
+ellenőrizni fogom és ennek alapán állítom az adott embert zöldre. Aki nem fogadja el a meghívót a **harmadik hét csötörtök 18:00-ig**,
+az **aláírásmegtagadást kap**.
+
+### Konzultációk
+
+A félév során az első közös megbeszélést leszámítva **4 konzultáció** szükséges, amit nagyrészt online
+formában fogunk tartani. Személyes találkozóra kedden, vagy csütörtökön, egyeztetett időpontban van lehetőség. Az online
+megbeszéléseknek hétfő és csütörtök 8:00 - 16:00 közé kell esniük.
+
+A konzultációk legkésőbb az alábbi időpontokban esedékesek:
+  * 1. konzultáció: **3. hét csütörtök**
+  * 2. konzultáció: **6. hét csütörtök**
+  * 3. konzultáció: **9. hét csütörtök**
+  * 4. konzultáció: **12. hét csütörtök**
+
+### Írásbeli beszámoló
+
+Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2023/08/Szakdolgozat_sablon_2022_.docx) kell elkészíteni. Minimális terjedelme 15 oldal. Határideje május 10-e.
+
+## Témák
+
+A következőkben a lehetséges választható témák kerülnek felsorolásra. Ezek nagyrészt nem
+konkrét, minden tekintetben kidolgozott feladatok, hanem csak kiindulási alapok, amiknek több
+konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapat is választhat hasonló témát.
+
+[Képfeldolgozási algoritmusokon alapuló projekt Webkamerával, vagy Raspberry Pi kamerával](kepfeldolgozas.md)
+
+[Tangram társasjáték számítógépes megvalósítása](tangram.md)
+
+[Játék Arduinoval és OLED kijelzővel](arduino-jatek.md)
+
+[Okos otthon megvalósítása NodeRed segítséglvel](okos-otthon.md)
+
+[WiFi aktivitás mérése Raspberry Pi segítségével](wifi-aktivitas.md)
+
+[Beszélő óra, beszélő konyhai időzítő, beszélő műszer](beszelo.md)
+
+[Tranziens jelek vizsgálata Arduinoval](tranziens.md)
+
+[Numerikus billentyűzettel vezérelhető akadályelkerülő játék](numpad-jatek.md)
+
+[Gyorsulásérzékelő felhasználása játék vezérlésére](accelero-jatek.md)
+
+[Zenegép](zenegep.md)
+
+[Diavetítő szimulátor](diavetito.md)
 
 ## Verziókövetés
 
@@ -18,18 +86,6 @@ kell annak is, hogy a félév során mi történik.
 
 A csapatoknak a készülő kód és az egyéb fájlok mellett a dokumentációt is ugyanebben a
 GitHub repositoryban kell (verziókövetve) tárolniuk.
-
-Ehhez mindenkinek regisztrálnia kell a GitHubra és a felhasználónevét be kell írnia a
-feljebb már említett [táblázatba](https://docs.google.com/spreadsheets/d/1BPvd-QJT9Fd2HLqn0v-txxHA3oMNaa7M44eLx-d2CMs/edit#gid=0). Ha ez megtörtént, a csapattagokat meghívom a megfelelő repositoryba.
-A meghívás után a csapattag nevét **sárgára** színezem a táblázatban.
-
-A meghívóról a GitHub e-mail értesítést küld, ahol egy linkre kattintva el is kell azt fogadni.
-Ezt rendszeresen ellenőrzöm. Ha minden rendben van, akkor a táblázatban az adott személyt
-**zöldre** állítom. Erre a folyamatra egy hét áll rendelkezésre. Aki ennek nem tesz határidőre eleget,
-azt szankcionálni fogom.
-
-A repository linkje a következőhöz hasonló lesz:
-[https://github.com/OE-AMK-Projektmunka1-2023/PL2023A_20](https://github.com/OE-AMK-Projektmunka1-2023/PL2023A_20)
 
 ### A fejlesztői környezet beállítása a Githez
 
@@ -100,36 +156,4 @@ amikor az adott csapattagnak ÉRDEMI commitja van.**
 Érdemi commit lehet akár egy egyeztetésről szóló bejegyzés az előrehaladási
 naplóban, vagy akár valamilyen, a projekthez kapcsolódó ötlet, vagy kísérlet nyoma
 (fotó, rövid leírás stb) is.
-
-# Témák
-
-A következőkben néhány témajavaslat kerül felsorolásra. Ezek nagyrészt nem
-konkrét, minden tekintetben kidolgozott feladatok, hanem inkább ötletek.
-A pontos részleteket pontosan emiatt minden esetben egyeztessük.
-
-[Képfeldolgozási algoritmusokon alapuló projekt Webkamerával, vagy Raspberry Pi kamerával](kepfeldolgozas.md)
-
-[Tangram társasjáték számítógépes megvalósítása](tangram.md)
-
-[Játék Arduinoval és OLED kijelzővel](arduino-jatek.md)
-
-[Okos otthon megvalósítása NodeRed segítséglvel](okos-otthon.md)
-
-[WiFi aktivitás mérése Raspberry Pi segítségével](wifi-aktivitas.md)
-
-[Beszélő óra, beszélő konyhai időzítő, beszélő műszer](beszelo.md)
-
-## Tranziens jelek vizsgálata Arduinoval
-
-Egy kontaktus átváltása (például egy kapcsoló, vagy relé ki- vagy bekapcsolása) soha nem
-az áramkör egyszeri nyitása, vagy zárása, hanem ezek gyors ismétlése során létrejövő
-tranziens folyamat (prellezés). Az egyik lehetséges feladat ennek a jelenségnek a
-vizsgálata Arduino segítségével, lehetőleg automatizáltan.
-
-Egy másik tranziens jelenség az izzólámpa be- és kikapcsolása, ahol számunkra
-az izzószál áramának / ellenállásának változása az érdekes.
-
-[Numerikus billentyűzettel vezérelhető akadályelkerülő játék](numpad-jatek.md)
-
-[Gyorsulásérzékelő felhasználása játék vezérlésére](accelero-jatek.md)
 
