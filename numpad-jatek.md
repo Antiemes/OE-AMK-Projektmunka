@@ -16,3 +16,12 @@ A numerikus billentyűzet elrendezése:
 |**4**|**5**|**6**|
 |**1**|**2**|**3**|
 
+Tegyük fel, hogy középen vagyunk és így haladunk előre.
+Ekkor középen előbukkan egy akadály. Áthúzódunk balra
+(4-es gomb), így elkerüljük az akadályt. Majd egy újabb akadály
+jön jobbra fent (biztonságban vagyunk), majd bal oldalt.
+Ezt kikerülendő átlépünk mondjuk a bal felső helyre (7-es gomb).
+
+Fontos követelmény, hogy az akadályoknak (természetesen) véletlenszerűen
+kell érkezniük és nem lehet egyszerre az összes mezőben akadály.
+
