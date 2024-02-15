@@ -107,46 +107,9 @@ A következőkben néhány témajavaslat kerül felsorolásra. Ezek nagyrészt n
 konkrét, minden tekintetben kidolgozott feladatok, hanem inkább ötletek.
 A pontos részleteket pontosan emiatt minden esetben egyeztessük.
 
-## Képfeldolgozási algoritmusokon alapuló projekt Webkamerával, vagy Raspberry Pi kamerával
+[Képfeldolgozási algoritmusokon alapuló projekt Webkamerával, vagy Raspberry Pi kamerával](kepfeldolgozas.md)
 
-Lehetséges projekt irányok:
-
-  * Arcfelismerés, objektumfelismerés
-  * Számok, vagy szövegek felismerése
-  * Vonalkódok, QR kódok felismerése
-  * Fiduciális markerek felismerése
-  * Testpóz, vagy kézpóz felismerés
-
-A megvalósításhoz Python és OpenCV használata ajánlott.
-
-## Tangram társasjáték számítógépes megvalósítása
-
-A tangram egy ősi kínai logikai játék, melynek célja, hogy egy,
-a körvonalával meghatározott formát előre meghatározott síkidomokból
-(kövekből) kirakjunk. Az eredeti játéktól kissé eltérő formájú
-kövekből áll a magyar "Ezt rakd ki".
-
-![Ezt rakd ki játék](images/eztrakdki1.jpg)
-
-Az "Ezt rakj ki" néhány feladványa:
-
-![Ezt rakd ki példák](images/eztrakdki2.jpg)
-
-A cél akár a kínai, akár a magyar verzió megvalósítása
-számítógépes program formájában.
-
-Az egyes megvalósítandó elemek a következők:
-
- * Feladványok definícióinak leírása
- * Játékmező kialakítása, feladvány kiválasztása, megoldott
- feladványok számon tartása
- * Játék irányításának kidolgozása
- * Kövek mozgatásának megvalósítása
- * Megoldott feladat folyamatos ellenőrzése
- * Közös feladatmegoldás biztosítása (opcionális)
-
-A játék akár webalkalmazásként, akár desktop programként, vagy mobil
-allként elképzelhető.
+[Tangram társasjáték számítógépes megvalósítása](tangram.md)
 
 ## Játék Arduinoval és OLED kijelzővel
 
