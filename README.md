@@ -58,6 +58,8 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Túlbonyolított dobókocka](dobokocka.md)
 
+[Megoldó logikai játékhoz](gamesolver.md)
+
 [Tangram társasjáték számítógépes megvalósítása](tangram.md)
 
 [Játék Arduinoval és OLED kijelzővel](arduino-jatek.md)
@@ -77,6 +79,8 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 [Zenegép](zenegep.md)
 
 [Diavetítő szimulátor](diavetito.md)
+
+[Kódtörő](kodtoro.md)
 
 ## Verziókövetés
 
