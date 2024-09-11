@@ -56,6 +56,8 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Képfeldolgozási algoritmusokon alapuló projekt Webkamerával, vagy Raspberry Pi kamerával](kepfeldolgozas.md)
 
+[Túlbonyolított dobókocka](dobokocka.md)
+
 [Tangram társasjáték számítógépes megvalósítása](tangram.md)
 
 [Játék Arduinoval és OLED kijelzővel](arduino-jatek.md)
