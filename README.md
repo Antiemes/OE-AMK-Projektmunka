@@ -40,13 +40,13 @@ A konzultációk időpontja:
   * 1. konzultáció: **Szeptember 11.** (1. hét)
   * 2. konzultáció: **Október 9.** (5. hét)
   * 3. konzultáció: **Október 30.** (8. hét)
-  * 4. konzultáció: **December 4.** (13. hét)
+  * 4. konzultáció: **November 27.** (12. hét)
 
 A konzultációk helye: K038, 9:50-10:35.
 
 ### Írásbeli beszámoló
 
-Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2024/03/Szakdolgozat_sablon_2023.docx) kell elkészíteni. Minimális terjedelme 25 oldal. A beadási határidő december 9-e (utolsó oktatási hét hétfő).
+Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2024/03/Szakdolgozat_sablon_2023.docx) kell elkészíteni. Minimális terjedelme 25 oldal. A beadási határidő december 5-e (utolsó oktatási hét hétfő).
 
 ## Témák
 
