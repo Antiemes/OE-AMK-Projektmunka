@@ -7,6 +7,7 @@ Lehetséges projekt irányok:
   * Vonalkódok, QR kódok felismerése
   * Fiduciális markerek felismerése
   * Testpóz, vagy kézpóz felismerés
+  * Rendszámfelismerés
 
 A megvalósításhoz Python és OpenCV használata ajánlott.
 
