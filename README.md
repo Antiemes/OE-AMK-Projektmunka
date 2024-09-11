@@ -3,25 +3,25 @@
 ## Időbeosztás, mérföldkövek
 
 A félév során **csapatban** **KELL** dolgozni. Egy csapat 2-3 főből állhat, amitől indokolt esetben felfelé igen, lefelé
-semmilyen esetben sem tudunk eltérni. Egy fős csapat nem megengedett. A csapatok összeállítását az első héten lezárjuk.
+semmilyen esetben sem tudunk eltérni. Egy fős csapat nem megengedett. A csapatok összeállítását a második héten lezárjuk.
 
 A csapatok összeállításával párhuzamosan folyik a téma kiválasztása (lásd lentebb).
 
-A csapatoknak minimálisan 4 konzultáción kell részt venniük a félév során (szintén lásd lejjebb).
+A csapatoknak 4 konzultáción kell részt venniük a félév során. Ezek az órarend szerinti időpontok közül kerülnek kiválasztásra, a félév során egyenletesen elosztva.
 
-A félév során **dokumentáció** készítése szükséges (hasonló módon lásd lejjebb).
+A félév során **dokumentáció** készítése szükséges (lásd lejjebb).
 
 A féléves munkát egy közös, **személyes beszámoló zárja** (úgyszintén lásd lejjebb).
 
 ### Csapatok összeállítása
 
-A csapatok összeállítása alapvetően a hallgatók feladata. Ezt
-[Ennek a táblázatnak](https://docs.google.com/spreadsheets/d/1wrBPsofgKiulAlaIY-kBxCaxafpvoQe2gkBipEEUu74/edit#gid=0)
-a segítségével lehet megtenni. Értelemszerűen a "csapat sorszáma" oszlopba kell beírni
+A csapatok összeállítása alapvetően a hallgatók feladata. Ezt egy online táblázat segítségével lehet megtenni,
+aminek a linkje a Moodle-ben szerepel.
+Értelemszerűen a "csapat sorszáma" oszlopba kell beírni
 a csapat sorszámát. A táblázatot később letisztázom és a kimaradó emberekből (ha
 lesznek) véletlenszerűen állítok össze csapatokat.
 
-A csapatok összeállítását a **második hét végéig** le fogjuk zárni. **A táblázatban módosítani az második hét csütörtök 18:00-ig lehet**.
+A csapatok összeállítását a **második hét végéig** le fogjuk zárni. **A táblázatban módosítani az második hét szerda 18:00-ig lehet**.
 Ezt követően a kimaradó embereket önkényesen fogom csapatokba rendezni.
 
 ### GitHub regisztráció és meghívó
@@ -29,24 +29,24 @@ Ezt követően a kimaradó embereket önkényesen fogom csapatokba rendezni.
 A féléves munkához szükség van a GitHub-ra történő regisztrációra is. Az ottani **felhasználónevet** úgyszintén be kell
 írni ebbe a táblázatba. A csapatok véglegesítése után mindenkit meghívok az előre elkészített GitHub repositoryba (ehhez
 kell tudnom a felhasználónevet). A meghívás után az illető nevét sárgára állítom. A meghívó elfogadását rendszeresen
-ellenőrizni fogom és ennek alapán állítom az adott embert zöldre. Aki nem fogadja el a meghívót a **harmadik hét csötörtök 18:00-ig**,
+ellenőrizni fogom és ennek alapán állítom az adott embert zöldre. Aki nem fogadja el a meghívót a **harmadik hét szerda 18:00-ig**,
 az **aláírásmegtagadást kap**.
 
 ### Konzultációk
 
-A félév során az első közös megbeszélést leszámítva **4 konzultáció** szükséges, amit nagyrészt online
-formában fogunk tartani. Személyes találkozóra kedden, vagy csütörtökön, egyeztetett időpontban van lehetőség. Az online
-megbeszéléseknek hétfő és csütörtök 8:00 - 16:00 közé kell esniük.
+A félév során **4 konzultáció** szükséges, amit az órarendi időpontok közül választva, együtt, személyesen tartunk.
 
-A konzultációk legkésőbb az alábbi időpontokban esedékesek:
-  * 1. konzultáció: **3. hét csütörtök**
-  * 2. konzultáció: **6. hét csütörtök**
-  * 3. konzultáció: **9. hét csütörtök**
-  * 4. konzultáció: **12. hét csütörtök**
+A konzultációk időpontja:
+  * 1. konzultáció: **Szeptember 11.** (1. hét)
+  * 2. konzultáció: **Október 9.** (5. hét)
+  * 3. konzultáció: **Október 30.** (8. hét)
+  * 4. konzultáció: **December 4.** (13. hét)
+
+A konzultációk helye: K038, 9:50-10:35.
 
 ### Írásbeli beszámoló
 
-Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2023/08/Szakdolgozat_sablon_2022_.docx) kell elkészíteni. Minimális terjedelme 15 oldal. Határideje május 10-e.
+Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2024/03/Szakdolgozat_sablon_2023.docx) kell elkészíteni. Minimális terjedelme 25 oldal. A beadási határidő december 9-e (utolsó oktatási hét hétfő).
 
 ## Témák
 
