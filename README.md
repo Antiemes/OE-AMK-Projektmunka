@@ -78,7 +78,7 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Diavetítő szimulátor](diavetito.md)
 
-[Kódtörő](kodtoro.md)
+[Monoalfabetikus titkosítás automatikus megfejtése](kodtoro.md)
 
 ## Verziókövetés
 
