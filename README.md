@@ -72,8 +72,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Tranziens jelek vizsgálata Arduinoval](tranziens.md)
 
-[Numerikus billentyűzettel vezérelhető akadályelkerülő játék](numpad-jatek.md)
-
 [Gyorsulásérzékelő felhasználása játék vezérlésére](accelero-jatek.md)
 
 [Zenegép](zenegep.md)
