@@ -80,6 +80,8 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Monoalfabetikus titkosítás automatikus megfejtése](kodtoro.md)
 
+[Automatikus videófeldolgozó online tananyagokhoz](video-feldolgozo.md)
+
 ## Verziókövetés
 
 A kurzus egyik célja a Git használatának elsajátítása. Ez azt jelenti, hogy ahelyett,
