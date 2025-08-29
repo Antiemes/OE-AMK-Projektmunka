@@ -72,8 +72,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Tranziens jelek vizsgálata Arduinoval](tranziens.md)
 
-[Gyorsulásérzékelő felhasználása játék vezérlésére](accelero-jatek.md)
-
 [Zenegép](zenegep.md)
 
 [Diavetítő szimulátor](diavetito.md)
