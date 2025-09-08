@@ -64,8 +64,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [WiFi aktivitás mérése Raspberry Pi segítségével](wifi-aktivitas.md)
 
-[Beszélő óra, beszélő konyhai időzítő, beszélő műszer](beszelo.md)
-
 [Tranziens jelek vizsgálata Arduinoval](tranziens.md)
 
 [Zenegép](zenegep.md)
