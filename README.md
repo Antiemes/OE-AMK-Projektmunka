@@ -54,8 +54,6 @@ A következőkben a lehetséges választható témák kerülnek felsorolásra. E
 konkrét, minden tekintetben kidolgozott feladatok, hanem csak kiindulási alapok, amiknek több
 konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapat is választhat hasonló témát.
 
-[Képfeldolgozási algoritmusokon alapuló projekt Webkamerával, vagy Raspberry Pi kamerával](kepfeldolgozas.md)
-
 [Túlbonyolított dobókocka](dobokocka.md)
 
 [Megoldó logikai játékhoz](gamesolver.md)
