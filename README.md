@@ -62,6 +62,8 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Zenegép](zenegep.md)
 
+[Beam the light játék](beam-the-light-jatek.md)
+
 [Monoalfabetikus titkosítás automatikus megfejtése](kodtoro.md)
 
 [Automatikus videófeldolgozó online tananyagokhoz](video-feldolgozo.md)
