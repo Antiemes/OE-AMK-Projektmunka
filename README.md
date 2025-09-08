@@ -62,8 +62,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Játék Arduinoval és OLED kijelzővel](arduino-jatek.md)
 
-[Okos otthon megvalósítása NodeRed segítséglvel](okos-otthon.md)
-
 [WiFi aktivitás mérése Raspberry Pi segítségével](wifi-aktivitas.md)
 
 [Beszélő óra, beszélő konyhai időzítő, beszélő műszer](beszelo.md)
