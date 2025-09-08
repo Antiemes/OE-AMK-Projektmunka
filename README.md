@@ -70,8 +70,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Zenegép](zenegep.md)
 
-[Diavetítő szimulátor](diavetito.md)
-
 [Monoalfabetikus titkosítás automatikus megfejtése](kodtoro.md)
 
 [Automatikus videófeldolgozó online tananyagokhoz](video-feldolgozo.md)
