@@ -58,8 +58,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Megoldó logikai játékhoz](gamesolver.md)
 
-[Tangram társasjáték számítógépes megvalósítása](tangram.md)
-
 [WiFi aktivitás mérése Raspberry Pi segítségével](wifi-aktivitas.md)
 
 [Tranziens jelek vizsgálata Arduinoval](tranziens.md)
