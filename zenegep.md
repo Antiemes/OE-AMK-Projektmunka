@@ -14,6 +14,23 @@ hanem nyolcadokra van bontva az ütem).
 |     |     |**X**|     |     |     |**X**|     |
 |     |     |     |     |**X**|     |     |     |
 
-
+A programnak ezt a mintát kell újra és újra lejátszania, minden alkalommal lejátszva az adott hangszerhez tartozó hangmintát, illetve
+ha egyidőben több hangszer is megszólal, akkor egyidőben a hozzájuk tartozó hangmintákat. Természetesen minden hangot tudnunk kell ki-
+és bekapcsolni, hogy másfajta ritmusokat is be tudjunk állítani, illetve számos egyéb variáció is elképzelhető az változatosabb
+hangzáshoz.
 
 A programot akár desktop, akár mobil alkalmazásként el lehet készíteni, esetleg webes megvalósítás is elképzelhető.
+
+## A program elvárt funkciói
+
+  * Ritmusok bevitele, tehát annak beállítása, hogy egy adott időpontban az adott sávhoz tartozó hangszer megszólaljon-e, vagy ne.
+  * Tempó szabályozása.
+  * Lejátszás indítása, megállítása.
+  * Annak jelzése, hogy az ütemen belül hol tartunk.
+  * A főritmustól eltérő ütemek beállítása (például be lehessen állítani, hogy minden 4. ütem egy kicsit eltérő legyen). Például legyen más színű az a mező, amelyik csak bizonyos ütemekben szól stb.
+  * Az egyes sávok némítása akár lejátszás közben, akár azon kívül
+
+## Egyéb teendők a projekthez
+
+  * Hangminták felvétele, vagy gyűjtése
+
