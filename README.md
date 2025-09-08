@@ -56,8 +56,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Túlbonyolított dobókocka](dobokocka.md)
 
-[Megoldó logikai játékhoz](gamesolver.md)
-
 [WiFi aktivitás mérése Raspberry Pi segítségével](wifi-aktivitas.md)
 
 [Tranziens jelek vizsgálata Arduinoval](tranziens.md)
