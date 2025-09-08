@@ -60,8 +60,6 @@ konkrét kidolgozása is lehetséges. Így az esetek nagy részében több csapa
 
 [Tangram társasjáték számítógépes megvalósítása](tangram.md)
 
-[Játék Arduinoval és OLED kijelzővel](arduino-jatek.md)
-
 [WiFi aktivitás mérése Raspberry Pi segítségével](wifi-aktivitas.md)
 
 [Tranziens jelek vizsgálata Arduinoval](tranziens.md)
