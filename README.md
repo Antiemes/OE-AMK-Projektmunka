@@ -77,6 +77,8 @@ saját projekt nem készíthető, illetve az egyszer már lefixált projekttől 
 
 [Automatikus videófeldolgozó online tananyagokhoz](video-feldolgozo.md)
 
+[Módosított sakk](sakk.md)
+
 ## Verziókövetés
 
 A kurzus egyik célja a Git használatának elsajátítása. Ez azt jelenti, hogy ahelyett,
