@@ -71,6 +71,8 @@ saját projekt nem készíthető, illetve az egyszer már lefixált projekttől 
 
 [Zenegép](zenegep.md)
 
+[Szózat játék megoldó](szozat.md)
+
 [Beam the light játék](beam-the-light-jatek.md)
 
 [Monoalfabetikus titkosítás automatikus megfejtése](kodtoro.md)
