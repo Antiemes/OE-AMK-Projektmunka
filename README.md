@@ -81,6 +81,8 @@ saját projekt nem készíthető, illetve az egyszer már lefixált projekttől 
 
 [Módosított sakk](sakk.md)
 
+[Sejtszimuláció](sejtszimulacio.md)
+
 ## Verziókövetés
 
 A kurzus egyik célja a Git használatának elsajátítása. Ez azt jelenti, hogy ahelyett,
