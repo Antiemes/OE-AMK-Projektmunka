@@ -2,7 +2,7 @@
 
 ## Időbeosztás, mérföldkövek
 
-A félév során **csapatban** **KELL** dolgozni. Egy csapat 2-3 főből állhat, amitől indokolt esetben felfelé igen, lefelé
+A félév során csapatban **KELL** dolgozni. Egy csapat 2-3 főből állhat, amitől indokolt esetben felfelé igen, lefelé
 semmilyen esetben sem tudunk eltérni. Egy fős csapat nem megengedett. A csapatok összeállítását a második konzultációig lezárjuk.
 
 A csapatok összeállításával párhuzamosan folyik a téma kiválasztása (lásd lentebb).
@@ -16,7 +16,7 @@ A féléves munkát egy közös, **személyes beszámoló zárja** (úgyszintén
 ### Csapatok összeállítása
 
 A csapatok összeállítása alapvetően a hallgatók feladata. Ezt egy online táblázat segítségével lehet megtenni,
-aminek a linkje a Moodle-ben szerepel.
+aminek a linkjét Neptun üzenetben elküldöm.
 Értelemszerűen a "csapat sorszáma" oszlopba kell beírni
 a csapat sorszámát. A táblázatot később letisztázom és a kimaradó emberekből (ha
 lesznek) véletlenszerűen állítok össze csapatokat.
@@ -34,13 +34,13 @@ ellenőrizni fogom és ennek alapán állítom az adott embert zöldre. Ennek a 
 ### Konzultációk
 
 A kurzushoz az órarendben heti rendszerességű konzultáció van rendelve, azonban csak ebből csak 4 alkalmat tartunk meg.
-Ezeket közösen, személyesen tartjuk. A konzultációk helye: C115, ideje 8:00-9:45.
+Ezeket közösen, személyesen tartjuk. A konzultációk helye: C211, ideje 8:00-9:45.
 
 A konzultációk időpontja:
-  * 1. konzultáció: **Szeptember 11.** (1. hét)
-  * 2. konzultáció: **??** (??. hét)
-  * 3. konzultáció: **??** (?? hét)
-  * 4. konzultáció: **??** (??. hét)
+  * 1. konzultáció: **Szeptember 11. 8:00-9:45** (1. hét)
+  * 2. konzultáció: **Szeptember 25. 8:00:9:45** (3. hét)
+  * 3. konzultáció: **Október 29. 8:00-9:45** (8 hét)
+  * 4. konzultáció: **November 26 8:00-9:45** (12. hét)
 
 Az 1. konzultációt főképp az általános tudnivalók ismertetésével és a csapatbeosztással fogjuk tölteni.
 
@@ -48,7 +48,7 @@ Az 1. konzultációt főképp az általános tudnivalók ismertetésével és a 
 A 2. konzultációra a csapatoknak és a választott témáknak véglegesnek
 kell lenniük. A témák választható részeit (például hogy a csapat milyen nyelvet, fejlesztőkörnyezetet stb. fog használni) eddigre véglegesíteni kell. A választott fejlesztőeszköz
 használatával el kell készíteni egy skeleton projektet, ami az adott eszközökkel egy minimális demó. Ennek a GitHub repositoryban is meg kell jelennie és minden csapattagnak
-a kódot (akár minimálisan) érintő változást kell eszközölnie. Ezzel igazolható, hogy a csapat valóban beállított a fejlesztőeszközben a verziókövetést és képes annak alapvető használatára.
+a kódot (akár minimálisan) érintő változást kell eszközölnie. Ezzel igazolható, hogy a csapat valóban beállította a fejlesztőeszközben a verziókövetést és képes annak alapvető használatára.
 
 A 3. konzultáció célja az évközi időarányos haladás további kontrollja. Ekkorra minden csapatnak be kell mutatnia egy olyan verziót, ami a funkciók egy része meg van valósítva.
 
@@ -56,37 +56,20 @@ A 4. konzultáción az elkészült munkákat mutatják be a csapatok.
 
 ### Írásbeli beszámoló
 
-Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2024/09/Szakdolgozat_sablon_2024.docx) kell elkészíteni. Minimális terjedelme 20 oldal (Projektmunka 1), illetve 25 oldal (Projektmunka 2). A beadási határidő december 5-e (utolsó oktatási hét hétfő).
+Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2024/09/Szakdolgozat_sablon_2024.docx) kell elkészíteni. Minimális terjedelme 20 oldal (Projektmunka 1), illetve 25 oldal (Projektmunka 2). A beadási határidő december 3-a (utolsó előtti oktatási hét csütörtök).
 
 ## Témák
 
-A következőkben a lehetséges választható témák kerülnek felsorolásra. Ezek többé-kevésbé
+Ebben a repositoryban a többi MarkDown fájl a lehetséges választható témák leírását tartalmazza.
+Ezek többé-kevésbé
 konkrét, kidolgozott feladatok, választható elemekkel. A legtöbb feladat többféle verzióban
-(például webalkalmazás, mobil app, vagy PC program) is megvalósítható, de nagyvonalakban specifikálva van. Idén
-saját projekt nem készíthető, illetve az egyszer már lefixált projekttől sem lehet eltérni.
-
-[Túlbonyolított dobókocka](dobokocka.md)
-
-[Tranziens jelek vizsgálata Arduinoval](tranziens.md)
-
-[Zenegép](zenegep.md)
-
-[Szózat játék megoldó](szozat.md)
-
-[Beam the light játék](beam-the-light-jatek.md)
-
-[Monoalfabetikus titkosítás automatikus megfejtése](kodtoro.md)
-
-[Automatikus videófeldolgozó online tananyagokhoz](video-feldolgozo.md)
-
-[Módosított sakk](sakk.md)
-
-[Sejtszimuláció](sejtszimulacio.md)
+(például webalkalmazás, mobil app, vagy PC program) is megvalósítható, de nagyvonalakban specifikálva van.
+Saját projekt nem készíthető, illetve az egyszer már lefixált projekttől sem lehet eltérni.
 
 ## Verziókövetés
 
 A kurzus egyik célja a Git használatának elsajátítása. Ez azt jelenti, hogy ahelyett,
-hogy a csapattagok a kódrészleteket például e-mailben, Messengeren stb. osztanák meg
+hogy a csapattagok a kódrészleteket például e-mailben, Messengeren, Discordon stb. osztanák meg
 egymással, a változásokat Git használatával követik. Ez egyben azt is jelenti, hogy
 a Git repositoryban nem csak a kész, működő verziónak kell szerepelnie, hanem látszani
 kell annak is, hogy a félév során mi történik.
